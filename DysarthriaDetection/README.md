@@ -1,0 +1,3 @@
+# Dysarthria Classification with CNN
+
+This repository contains the notebook implementation for **Dysarthria Classification** using **Convolutional Neural Networks (CNN)**. The project involves preprocessing raw audio files, converting them into log-mel spectrograms, training a CNN model for classification, and evaluating the model's performance. The dataset used in this project, along with the code (notebook), is also available on [Kaggle](https://www.kaggle.com/datasets/mirabuhuraira/).
